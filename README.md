@@ -8,13 +8,13 @@ Our results indicate the efficacy of GSP on complex sensor data modeled in compl
 
 ## Contributions
 
-### We propose the modeling options taken for making the real-world dataset applicable for GSP using a complex network representation.
+### 1. We propose the modeling options taken for making the real-world dataset applicable for GSP using a complex network representation.
 
-### We present comprehensive analysis results, regarding sensor network modeling in a resource-aware way, aiming towards a minimal set of sensors for reconstructing the given signal
+### 2. We present comprehensive analysis results, regarding sensor network modeling in a resource-aware way, aiming towards a minimal set of sensors for reconstructing the given signal
 
 ![](images/chosennodes.png)
 
-### We provide modeling results on signal pattern and event identification
+### 3. We provide modeling results on signal pattern and event identification
 
 ![](images/vibrations.gif)
 ![](images/fourierexample.gif)
