@@ -12,7 +12,7 @@ Our results indicate the efficacy of GSP on complex sensor data modeled in compl
 
 ### We present comprehensive analysis results, regarding sensor network modeling in a resource-aware way, aiming towards a minimal set of sensors for reconstructing the given signal
 
-![](images/chosennodes_2_3_experiment_new.pdf)
+![](images/chosennodes.png)
 
 ### We provide modeling results on signal pattern and event identification
 
