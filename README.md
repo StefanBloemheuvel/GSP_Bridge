@@ -1,5 +1,5 @@
 # Graph Signal Processing on Complex Networks for Structural Health Monitoring
-code and website for the paper under review. [PAGE IN PROGRESS]
+Additional material for the paper under review. [PAGE IN PROGRESS]
 
 ## Abstract
 In this work, we demonstrate the application of a framework targeting Complex Networks and Graph Signal Processing (GSP) for Structural Health Monitoring (SHM). 
