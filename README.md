@@ -16,7 +16,16 @@ Our results indicate the efficacy of GSP on complex sensor data modeled in compl
 
 ### 3. We provide modeling results on signal pattern and event identification
 
-![](images/vibrations.gif)
-![](images/fourierexample.gif)
-![](images/TVplot.gif)
+
+
+In the following animation, the increased strain in the bridge is visible in the lower right part of the bridge. We also see a decrease in strain in the top part of the bridge, where the road is placed. 
+
 ![](images/vibrationtest.gif)
+
+One could also investigate the Fourier components of the exact same signal, visible in the following animation:
+
+![](images/fourierexample.gif)
+
+The vibration signal of the exact same moment during the traffic event, showing a back-and-forth vibration signal flowing through the concrete structure:
+
+![](images/vibrations.gif)
