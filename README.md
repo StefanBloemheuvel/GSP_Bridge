@@ -18,6 +18,7 @@ This motivates more complex modeling, e.g., by including spatial dimensions, lea
 
 ### 2. We present comprehensive analysis results, regarding sensor network modeling in a resource-aware way, aiming towards a minimal set of sensors for reconstructing the given signal
 A fundamental task in GSP is to infer the values of certain sensors by interpolating them from a sample, e.g., when the application requires cost constraints that limit the number of nodes that can be observed, or when it would be too costly to sample at a high rate, so that values have to be inferred from a sample. Furthermore, the sensor selection could be used to increase the lifetime of battery-powered sensor networks, e.g., by calculating two optimal sets of sensors to turn on and of interchangeably.
+![](images/bridgeoverview.png)
 ![](images/chosennodes.png)
 
 ### 3. We provide modeling results on signal pattern and event identification
